@@ -475,3 +475,4 @@ for (x2 = 0.1; x2 <= 1; x2 += 0.05)
     Console.WriteLine($"c={c2}|y={Math.Pow(Math.E,2*x2)}");
 }
 #endregion
+
